@@ -1,7 +1,7 @@
 <template>
   <div class="user">
     <div class="userBox">
-      <img src="/header.jpg" alt="头像" class="header" />
+      <img src="../assets/header.jpg" alt="头像" class="header" />
       <div class="name">{{userName}}</div>
       <div class="title">欢迎来到个人中心</div>
       <div class="add" @click="add">添加</div>
